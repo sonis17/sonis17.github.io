@@ -1,0 +1,244 @@
+@import url("webfonts/AmaticSC_Regular/stylesheet.css");
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');
+/* CSS Document */
+{margin: 0;
+padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background-color: white;
+}
+h6 {
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+
+}
+header,nav,main,footer{
+	width: 100%
+		margin:0 auto;
+}
+header{
+    background-color: #D67371;
+    color: white;
+    padding-top: 45px;
+    height: 100%;
+    padding-bottom: 45px;
+    opacity: 1;
+    width: auto;
+	}
+nav{
+    height: 80px;
+    background-color: #F8CDE0;
+    width: auto;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 0px;
+}
+nav ul  {
+    height: 50px;
+}
+nav ul li {
+    list-style-image: none;
+    width: 106px;
+    background-color: #B6ACE0;
+    display: inline-block;
+    margin-left: 10px;
+    padding: 10 px;
+    margin-right: 10px;
+    height: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+
+main{
+	height: auto;
+	background-color: #6A638C;
+	padding: 50px;
+}
+
+footer {background-color: #D67371;
+	color:white;
+	height: 100px;
+}
+section{
+    width: 85%;
+    margin: 10 px auto;
+    padding: 35px auto;
+    background-color: #F8CDE0;
+    border-radius: 10px;
+
+		
+}
+.gatitoimagen_1 {
+}
+.gatitoimagen_1 {
+    width: 33%;
+    height: auto;
+    border-left: 5px;
+    border-right: 5px  #D67371;
+    border-bottom: 5px;
+    border-top: 5px;
+    margin: 30px;
+}
+.gato1 {
+}
+.gato1 {
+}
+body header {
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.imagen_1 {
+    width: 25%;
+    border: 40px;
+    height: auto;
+    margin-top: px;
+}
+#filter_blue {
+}
+#filter_brillo {
+    filter: brillo;
+}
+h1 {
+    text-shadow: 0px 0px #6A638C;
+    text-align: center;
+
+}
+.video_pru {
+    width: 22%;
+    height: auto;
+}
+.video_pru {
+}
+.audio_1 {
+    border-width: 0px;
+    border-top-left-radius: 10px 0px;
+    border-bottom-left-radius: 10px 0px;
+}
+.audio_1 {
+    height: 50%;
+    width: auto;
+}
+h2 {
+    color: #D67371;
+}
+p {
+    color: #460220;
+    text-align: justify;
+}
+
+input[ type=tex], input [ype=password]
+{
+width:30%;
+pading:5px;
+	margin: 8px 0;
+	border:1px #473B82;
+	border-radius: 10px;
+	color: darkblue;
+}
+
+input [type=submit]{
+	width: 10%;
+	padding: 5px;
+	border-radius: 10px;
+	margin-left: 20px;
+	background-color: #544A87;
+	cursor: pointer; 
+}
+input[type =submit] :hover{
+	background-color: #C5AFB9;
+	color: #AD0650;
+}
+input [type =tex]: focus {
+	border: 1px solid #C32B28;
+	background-color: #5A508C;
+	
+}
+textarea{
+	width: 50%;
+	height: :100px;
+	padding: 12px 20px;
+	color: #EC7EAF;
+	border-radius: 10px;
+	border:2px solid #373251;
+	resize: none;
+}
+select{
+	width: 30%;
+	padding: 16px 20px;
+	border: none;
+	border-radius: 4px;
+	background-color:solid #423C5F;
+}main section h2 fuente {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: italic;
+}
+.clasea1 {
+    font-family: dynalight;
+    font-weight: 400;
+}
+.clasea2 {
+    font-family: "AmaticSC Regular";
+}
+.pa1 {
+    font-style: normal;
+    font-weight: 400;
+    font-family: "AmaticSC Regular";
+}
+.repositoriogo {
+	font-family: 'Amatic SC', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Nanum Gothic Coding', monospace;
+	
+}
+.pa2 {
+    font-family: didact-gothic;
+    font-style: normal;
+    font-weight: 400;
+}
+.parrafoimportado {
+	font-family: 'Barlow Condensed', sans-serif;
+}
+.fuenteimportada {
+	font-family: 'Sansita Swashed', cursive;
+}
+
+.fuenteprin {
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: #AF2826;
+    text-shadow: 2px 1.8px 3px #3E1111;
+}
+.fuentef {
+	font-family: 'Fira Mono', monospace;
+}
+.pf{
+	font-family: 'Nova Mono', monospace;
+}
+h3{
+    color: #6A638C;
+    text-decoration: underline;
+    text-align: left;
+}
+.secvc {
+    width: 1041px;
+    margin: 4;
+    height: auto;
+}
+.ultex {
+    color: #574C8A;
+    width: 1024px;
+}
+.ult {
+}
